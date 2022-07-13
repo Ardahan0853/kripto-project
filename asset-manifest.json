@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kripto-project/static/css/main.9875e604.css",
+    "main.js": "/kripto-project/static/js/main.fef44069.js",
+    "index.html": "/kripto-project/index.html",
+    "main.9875e604.css.map": "/kripto-project/static/css/main.9875e604.css.map",
+    "main.fef44069.js.map": "/kripto-project/static/js/main.fef44069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9875e604.css",
+    "static/js/main.fef44069.js"
+  ]
+}
